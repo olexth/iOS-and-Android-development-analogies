@@ -6,7 +6,8 @@
  CocoaPods/Swift Package Manager     		| ~Gradle	                 | build automation tool/dependency manager etc 
  iOS Simulator 		| Android Emulator          | virtual device for testing 
  Interface Builder 	| Layout Editor        | visual UI editor 
- Info.plist			| Manifest.xml             | project config file 
+ Info.plist			| Manifest.xml             | project config file
+ .xcodeproj/.xcworkspace        | build.gradle  | file to click for opening project in IDE 
  AppDelegate   		| ~Activity/MainApplication | global class for managing app state 
  ViewController		| ~Activity/Fragment        | Class responsible for UI by default in MVC 
  View          		| Layout/View               | basic element for UI component representation 
